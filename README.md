@@ -1,2 +1,2 @@
 # weather-app
-link
+https://weatherappfaizi.netlify.app
